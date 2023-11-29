@@ -1,0 +1,5 @@
+D:/Рабочий Стол/n1007/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/Рабочий Стол/n1007/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/Рабочий Стол/n1007/out/build/x64-debug/n1007/CMakeFiles/n1007.dir
+D:/Рабочий Стол/n1007/out/build/x64-debug/n1007/CMakeFiles/edit_cache.dir
+D:/Рабочий Стол/n1007/out/build/x64-debug/n1007/CMakeFiles/rebuild_cache.dir
